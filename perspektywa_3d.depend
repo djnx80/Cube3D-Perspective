@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1455194952 source:d:\cb\perspektywa_3d\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1446964368 d:\cb\perspektywa_3d\allegrostart.h
+
+1455611992 source:d:\cb\perspektywa_3d\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+
+1455194952 source:k:\cb\perspektywa_3d\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1446964368 k:\cb\perspektywa_3d\allegrostart.h
+
+1455195208 source:k:\cb\perspektywa_3d\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+
+1466593157 source:f:\kody zrodlowe\z pendrivea - kody zrodlowe\cb\perspektywa_3d\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+
+1446964368 f:\kody zrodlowe\z pendrivea - kody zrodlowe\cb\perspektywa_3d\allegrostart.h
+
+1466593205 source:f:\kody zrodlowe\z pendrivea - kody zrodlowe\cb\perspektywa_3d\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1467659368 source:i:\cb\perspektywa_3d\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1446964368 i:\cb\perspektywa_3d\allegrostart.h
+
+1467659357 source:i:\cb\perspektywa_3d\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+
